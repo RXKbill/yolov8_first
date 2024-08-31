@@ -4,3 +4,8 @@
 
 数据集地址：https://www.kaggle.com/datasets/xinkunran/yolov8-city-manage
 
+运行文件位置示意：
+
+yolov8_first
+  |__
+  |__
