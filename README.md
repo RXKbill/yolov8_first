@@ -6,12 +6,16 @@
 
 运行文件位置示意：
 
-yolov8_first
+    yolov8_first
 
-  |__train
+    |__train
 
-      |__target
+        |__target
 
-      |__vedio
+        |__vedio
   
-  |__test
+    |__test
+
+    |__yolo.py
+
+    |__yolov8n.pt/yolov8x.pt
