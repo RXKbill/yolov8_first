@@ -8,6 +8,10 @@
 
 yolov8_first
 
-  |__
+  |__train
+
+      |__target
+
+      |__vedio
   
-  |__
+  |__test
