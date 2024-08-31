@@ -19,3 +19,5 @@
     |__yolo.py
 
     |__yolov8n.pt/yolov8x.pt
+
+runs和results文件夹是yolov8运行产出结果，仓库里的内容为参考运行结果
