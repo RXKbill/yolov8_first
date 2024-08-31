@@ -1,0 +1,698 @@
+[
+    {
+        "frame_id": 0,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            793,
+            32,
+            1015,
+            159
+        ],
+        "confidence": 0.10218127816915512
+    },
+    {
+        "frame_id": 3,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            790,
+            31,
+            1014,
+            161
+        ],
+        "confidence": 0.13911843299865723
+    },
+    {
+        "frame_id": 4,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            789,
+            31,
+            1014,
+            159
+        ],
+        "confidence": 0.07047004997730255
+    },
+    {
+        "frame_id": 5,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            789,
+            32,
+            1013,
+            160
+        ],
+        "confidence": 0.3027266561985016
+    },
+    {
+        "frame_id": 6,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            787,
+            31,
+            1013,
+            161
+        ],
+        "confidence": 0.29962384700775146
+    },
+    {
+        "frame_id": 7,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            788,
+            32,
+            1011,
+            162
+        ],
+        "confidence": 0.2169005572795868
+    },
+    {
+        "frame_id": 8,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            787,
+            32,
+            1011,
+            168
+        ],
+        "confidence": 0.29911360144615173
+    },
+    {
+        "frame_id": 9,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            787,
+            32,
+            1010,
+            161
+        ],
+        "confidence": 0.33703985810279846
+    },
+    {
+        "frame_id": 10,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            788,
+            31,
+            1010,
+            160
+        ],
+        "confidence": 0.23030780255794525
+    },
+    {
+        "frame_id": 11,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            787,
+            31,
+            1009,
+            161
+        ],
+        "confidence": 0.25571683049201965
+    },
+    {
+        "frame_id": 12,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            788,
+            31,
+            1008,
+            160
+        ],
+        "confidence": 0.13157016038894653
+    },
+    {
+        "frame_id": 13,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            786,
+            30,
+            1008,
+            161
+        ],
+        "confidence": 0.3593973219394684
+    },
+    {
+        "frame_id": 14,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            785,
+            31,
+            1007,
+            160
+        ],
+        "confidence": 0.49692365527153015
+    },
+    {
+        "frame_id": 15,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            784,
+            31,
+            1007,
+            161
+        ],
+        "confidence": 0.4178963303565979
+    },
+    {
+        "frame_id": 16,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            782,
+            34,
+            1006,
+            158
+        ],
+        "confidence": 0.285104900598526
+    },
+    {
+        "frame_id": 17,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            783,
+            33,
+            1005,
+            157
+        ],
+        "confidence": 0.20855490863323212
+    },
+    {
+        "frame_id": 18,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            781,
+            35,
+            1005,
+            157
+        ],
+        "confidence": 0.18382403254508972
+    },
+    {
+        "frame_id": 19,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            779,
+            34,
+            1004,
+            159
+        ],
+        "confidence": 0.25280722975730896
+    },
+    {
+        "frame_id": 20,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            777,
+            36,
+            1004,
+            160
+        ],
+        "confidence": 0.21906793117523193
+    },
+    {
+        "frame_id": 21,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            776,
+            38,
+            1003,
+            160
+        ],
+        "confidence": 0.1776057332754135
+    },
+    {
+        "frame_id": 22,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            775,
+            36,
+            1003,
+            161
+        ],
+        "confidence": 0.4739966094493866
+    },
+    {
+        "frame_id": 23,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            775,
+            37,
+            1002,
+            161
+        ],
+        "confidence": 0.4971812963485718
+    },
+    {
+        "frame_id": 24,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            773,
+            38,
+            1001,
+            164
+        ],
+        "confidence": 0.5219597220420837
+    },
+    {
+        "frame_id": 25,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            772,
+            36,
+            1000,
+            164
+        ],
+        "confidence": 0.7347967028617859
+    },
+    {
+        "frame_id": 26,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            771,
+            37,
+            999,
+            169
+        ],
+        "confidence": 0.5582365393638611
+    },
+    {
+        "frame_id": 27,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            771,
+            36,
+            997,
+            168
+        ],
+        "confidence": 0.5920846462249756
+    },
+    {
+        "frame_id": 28,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            769,
+            36,
+            997,
+            182
+        ],
+        "confidence": 0.65660160779953
+    },
+    {
+        "frame_id": 29,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            768,
+            35,
+            995,
+            184
+        ],
+        "confidence": 0.559904158115387
+    },
+    {
+        "frame_id": 30,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            768,
+            36,
+            995,
+            189
+        ],
+        "confidence": 0.5143251419067383
+    },
+    {
+        "frame_id": 31,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            767,
+            36,
+            993,
+            189
+        ],
+        "confidence": 0.7116023898124695
+    },
+    {
+        "frame_id": 32,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            767,
+            36,
+            992,
+            188
+        ],
+        "confidence": 0.6987854242324829
+    },
+    {
+        "frame_id": 33,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            765,
+            36,
+            990,
+            189
+        ],
+        "confidence": 0.8081757426261902
+    },
+    {
+        "frame_id": 34,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            761,
+            36,
+            989,
+            203
+        ],
+        "confidence": 0.8634287118911743
+    },
+    {
+        "frame_id": 35,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            759,
+            35,
+            989,
+            205
+        ],
+        "confidence": 0.8818578720092773
+    },
+    {
+        "frame_id": 36,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            757,
+            35,
+            987,
+            202
+        ],
+        "confidence": 0.8865463733673096
+    },
+    {
+        "frame_id": 37,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            756,
+            37,
+            986,
+            211
+        ],
+        "confidence": 0.7614160180091858
+    },
+    {
+        "frame_id": 38,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            753,
+            37,
+            984,
+            223
+        ],
+        "confidence": 0.7054066061973572
+    },
+    {
+        "frame_id": 39,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            752,
+            38,
+            982,
+            225
+        ],
+        "confidence": 0.5876842141151428
+    },
+    {
+        "frame_id": 40,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            751,
+            39,
+            979,
+            222
+        ],
+        "confidence": 0.451911062002182
+    },
+    {
+        "frame_id": 41,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            749,
+            38,
+            977,
+            222
+        ],
+        "confidence": 0.2793751358985901
+    },
+    {
+        "frame_id": 42,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            747,
+            38,
+            976,
+            212
+        ],
+        "confidence": 0.4051709473133087
+    },
+    {
+        "frame_id": 43,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            745,
+            37,
+            974,
+            222
+        ],
+        "confidence": 0.20632174611091614
+    },
+    {
+        "frame_id": 44,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            743,
+            36,
+            972,
+            218
+        ],
+        "confidence": 0.3120526969432831
+    },
+    {
+        "frame_id": 45,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            742,
+            36,
+            970,
+            223
+        ],
+        "confidence": 0.4747946858406067
+    },
+    {
+        "frame_id": 46,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            741,
+            40,
+            968,
+            224
+        ],
+        "confidence": 0.518413782119751
+    },
+    {
+        "frame_id": 47,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            739,
+            41,
+            966,
+            226
+        ],
+        "confidence": 0.6788696050643921
+    },
+    {
+        "frame_id": 48,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            737,
+            41,
+            964,
+            222
+        ],
+        "confidence": 0.8036851286888123
+    },
+    {
+        "frame_id": 49,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            736,
+            43,
+            963,
+            227
+        ],
+        "confidence": 0.7129634618759155
+    },
+    {
+        "frame_id": 50,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            735,
+            44,
+            962,
+            207
+        ],
+        "confidence": 0.8585728406906128
+    },
+    {
+        "frame_id": 51,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            733,
+            44,
+            959,
+            202
+        ],
+        "confidence": 0.8955514430999756
+    },
+    {
+        "frame_id": 52,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            732,
+            45,
+            958,
+            209
+        ],
+        "confidence": 0.7932894229888916
+    },
+    {
+        "frame_id": 53,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            731,
+            45,
+            952,
+            207
+        ],
+        "confidence": 0.8680896162986755
+    },
+    {
+        "frame_id": 54,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            730,
+            46,
+            949,
+            210
+        ],
+        "confidence": 0.7982637286186218
+    },
+    {
+        "frame_id": 55,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            731,
+            47,
+            947,
+            211
+        ],
+        "confidence": 0.7715200781822205
+    },
+    {
+        "frame_id": 56,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            731,
+            49,
+            944,
+            222
+        ],
+        "confidence": 0.6140602231025696
+    },
+    {
+        "frame_id": 57,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            731,
+            51,
+            941,
+            217
+        ],
+        "confidence": 0.3922725021839142
+    },
+    {
+        "frame_id": 58,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            730,
+            53,
+            939,
+            207
+        ],
+        "confidence": 0.4656323492527008
+    },
+    {
+        "frame_id": 59,
+        "event_id": 1,
+        "category": "机动车违停",
+        "bbox": [
+            730,
+            54,
+            940,
+            211
+        ],
+        "confidence": 0.15691505372524261
+    }
+]

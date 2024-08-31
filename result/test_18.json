@@ -1,0 +1,7094 @@
+[
+    {
+        "frame_id": 0,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9697978496551514
+    },
+    {
+        "frame_id": 0,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            552,
+            1638,
+            657
+        ],
+        "confidence": 0.9658804535865784
+    },
+    {
+        "frame_id": 0,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9590690732002258
+    },
+    {
+        "frame_id": 1,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698374271392822
+    },
+    {
+        "frame_id": 1,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659265279769897
+    },
+    {
+        "frame_id": 1,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9592311978340149
+    },
+    {
+        "frame_id": 2,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.96988445520401
+    },
+    {
+        "frame_id": 2,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659554362297058
+    },
+    {
+        "frame_id": 2,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9592745900154114
+    },
+    {
+        "frame_id": 3,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.969832181930542
+    },
+    {
+        "frame_id": 3,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659613370895386
+    },
+    {
+        "frame_id": 3,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9592884182929993
+    },
+    {
+        "frame_id": 4,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.969968855381012
+    },
+    {
+        "frame_id": 4,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659187197685242
+    },
+    {
+        "frame_id": 4,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593519568443298
+    },
+    {
+        "frame_id": 5,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699585437774658
+    },
+    {
+        "frame_id": 5,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659304022789001
+    },
+    {
+        "frame_id": 5,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593343138694763
+    },
+    {
+        "frame_id": 6,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699822068214417
+    },
+    {
+        "frame_id": 6,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659212827682495
+    },
+    {
+        "frame_id": 6,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593630433082581
+    },
+    {
+        "frame_id": 7,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699278473854065
+    },
+    {
+        "frame_id": 7,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659752249717712
+    },
+    {
+        "frame_id": 7,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593651294708252
+    },
+    {
+        "frame_id": 8,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699453115463257
+    },
+    {
+        "frame_id": 8,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659310579299927
+    },
+    {
+        "frame_id": 8,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593532681465149
+    },
+    {
+        "frame_id": 9,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699451923370361
+    },
+    {
+        "frame_id": 9,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965948760509491
+    },
+    {
+        "frame_id": 9,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.959387481212616
+    },
+    {
+        "frame_id": 10,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699353575706482
+    },
+    {
+        "frame_id": 10,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659170508384705
+    },
+    {
+        "frame_id": 10,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.95932936668396
+    },
+    {
+        "frame_id": 11,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698993563652039
+    },
+    {
+        "frame_id": 11,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965906023979187
+    },
+    {
+        "frame_id": 11,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593188166618347
+    },
+    {
+        "frame_id": 12,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699280261993408
+    },
+    {
+        "frame_id": 12,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659214019775391
+    },
+    {
+        "frame_id": 12,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9595561623573303
+    },
+    {
+        "frame_id": 13,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9698693752288818
+    },
+    {
+        "frame_id": 13,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658856987953186
+    },
+    {
+        "frame_id": 13,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9595468640327454
+    },
+    {
+        "frame_id": 14,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9699332118034363
+    },
+    {
+        "frame_id": 14,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658417701721191
+    },
+    {
+        "frame_id": 14,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595677852630615
+    },
+    {
+        "frame_id": 15,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9700502157211304
+    },
+    {
+        "frame_id": 15,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965880811214447
+    },
+    {
+        "frame_id": 15,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595905542373657
+    },
+    {
+        "frame_id": 16,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9700226187705994
+    },
+    {
+        "frame_id": 16,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658600091934204
+    },
+    {
+        "frame_id": 16,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595850706100464
+    },
+    {
+        "frame_id": 17,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9701167345046997
+    },
+    {
+        "frame_id": 17,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965836763381958
+    },
+    {
+        "frame_id": 17,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595543146133423
+    },
+    {
+        "frame_id": 18,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701180458068848
+    },
+    {
+        "frame_id": 18,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9657980799674988
+    },
+    {
+        "frame_id": 18,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595752954483032
+    },
+    {
+        "frame_id": 19,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700900316238403
+    },
+    {
+        "frame_id": 19,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9657891392707825
+    },
+    {
+        "frame_id": 19,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595361948013306
+    },
+    {
+        "frame_id": 20,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700558185577393
+    },
+    {
+        "frame_id": 20,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9657984972000122
+    },
+    {
+        "frame_id": 20,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595279693603516
+    },
+    {
+        "frame_id": 21,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9700824022293091
+    },
+    {
+        "frame_id": 21,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658493399620056
+    },
+    {
+        "frame_id": 21,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594882130622864
+    },
+    {
+        "frame_id": 22,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9701083898544312
+    },
+    {
+        "frame_id": 22,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659085869789124
+    },
+    {
+        "frame_id": 22,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595301747322083
+    },
+    {
+        "frame_id": 23,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701472520828247
+    },
+    {
+        "frame_id": 23,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658925533294678
+    },
+    {
+        "frame_id": 23,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595041275024414
+    },
+    {
+        "frame_id": 24,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702843427658081
+    },
+    {
+        "frame_id": 24,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659078121185303
+    },
+    {
+        "frame_id": 24,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.959417998790741
+    },
+    {
+        "frame_id": 25,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702973961830139
+    },
+    {
+        "frame_id": 25,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658759236335754
+    },
+    {
+        "frame_id": 25,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594571590423584
+    },
+    {
+        "frame_id": 26,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703787565231323
+    },
+    {
+        "frame_id": 26,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965820848941803
+    },
+    {
+        "frame_id": 26,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594059586524963
+    },
+    {
+        "frame_id": 27,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703425168991089
+    },
+    {
+        "frame_id": 27,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658299684524536
+    },
+    {
+        "frame_id": 27,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594435691833496
+    },
+    {
+        "frame_id": 28,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703963994979858
+    },
+    {
+        "frame_id": 28,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658769965171814
+    },
+    {
+        "frame_id": 28,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594078063964844
+    },
+    {
+        "frame_id": 29,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703465700149536
+    },
+    {
+        "frame_id": 29,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658885598182678
+    },
+    {
+        "frame_id": 29,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594094753265381
+    },
+    {
+        "frame_id": 30,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9703486561775208
+    },
+    {
+        "frame_id": 30,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965870201587677
+    },
+    {
+        "frame_id": 30,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593610763549805
+    },
+    {
+        "frame_id": 31,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970252513885498
+    },
+    {
+        "frame_id": 31,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965857207775116
+    },
+    {
+        "frame_id": 31,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593689441680908
+    },
+    {
+        "frame_id": 32,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703134298324585
+    },
+    {
+        "frame_id": 32,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659131765365601
+    },
+    {
+        "frame_id": 32,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593560099601746
+    },
+    {
+        "frame_id": 33,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702783226966858
+    },
+    {
+        "frame_id": 33,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659672975540161
+    },
+    {
+        "frame_id": 33,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593303203582764
+    },
+    {
+        "frame_id": 34,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701970815658569
+    },
+    {
+        "frame_id": 34,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659654498100281
+    },
+    {
+        "frame_id": 34,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593728184700012
+    },
+    {
+        "frame_id": 35,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701785445213318
+    },
+    {
+        "frame_id": 35,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965933084487915
+    },
+    {
+        "frame_id": 35,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593425989151001
+    },
+    {
+        "frame_id": 36,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9704601168632507
+    },
+    {
+        "frame_id": 36,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658831357955933
+    },
+    {
+        "frame_id": 36,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593605995178223
+    },
+    {
+        "frame_id": 37,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9704663157463074
+    },
+    {
+        "frame_id": 37,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658891558647156
+    },
+    {
+        "frame_id": 37,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593186974525452
+    },
+    {
+        "frame_id": 38,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.970437228679657
+    },
+    {
+        "frame_id": 38,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658817648887634
+    },
+    {
+        "frame_id": 38,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593364596366882
+    },
+    {
+        "frame_id": 39,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.970407247543335
+    },
+    {
+        "frame_id": 39,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965851902961731
+    },
+    {
+        "frame_id": 39,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593344926834106
+    },
+    {
+        "frame_id": 40,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9704179167747498
+    },
+    {
+        "frame_id": 40,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965840756893158
+    },
+    {
+        "frame_id": 40,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593071937561035
+    },
+    {
+        "frame_id": 41,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.970424234867096
+    },
+    {
+        "frame_id": 41,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658613204956055
+    },
+    {
+        "frame_id": 41,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.959338366985321
+    },
+    {
+        "frame_id": 42,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9703723788261414
+    },
+    {
+        "frame_id": 42,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659040570259094
+    },
+    {
+        "frame_id": 42,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.959355890750885
+    },
+    {
+        "frame_id": 43,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.970384955406189
+    },
+    {
+        "frame_id": 43,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965912938117981
+    },
+    {
+        "frame_id": 43,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593755602836609
+    },
+    {
+        "frame_id": 44,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9703492522239685
+    },
+    {
+        "frame_id": 44,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659428596496582
+    },
+    {
+        "frame_id": 44,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593827724456787
+    },
+    {
+        "frame_id": 45,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702922105789185
+    },
+    {
+        "frame_id": 45,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660160541534424
+    },
+    {
+        "frame_id": 45,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9592786431312561
+    },
+    {
+        "frame_id": 46,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970339834690094
+    },
+    {
+        "frame_id": 46,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659436345100403
+    },
+    {
+        "frame_id": 46,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593442678451538
+    },
+    {
+        "frame_id": 47,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703215956687927
+    },
+    {
+        "frame_id": 47,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659937024116516
+    },
+    {
+        "frame_id": 47,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593407511711121
+    },
+    {
+        "frame_id": 48,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701989889144897
+    },
+    {
+        "frame_id": 48,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659863710403442
+    },
+    {
+        "frame_id": 48,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593980312347412
+    },
+    {
+        "frame_id": 49,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702521562576294
+    },
+    {
+        "frame_id": 49,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659883379936218
+    },
+    {
+        "frame_id": 49,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593778252601624
+    },
+    {
+        "frame_id": 50,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700005054473877
+    },
+    {
+        "frame_id": 50,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965968668460846
+    },
+    {
+        "frame_id": 50,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594811201095581
+    },
+    {
+        "frame_id": 51,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699808955192566
+    },
+    {
+        "frame_id": 51,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659924507141113
+    },
+    {
+        "frame_id": 51,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594517946243286
+    },
+    {
+        "frame_id": 52,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699876308441162
+    },
+    {
+        "frame_id": 52,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659599661827087
+    },
+    {
+        "frame_id": 52,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595292806625366
+    },
+    {
+        "frame_id": 53,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699527025222778
+    },
+    {
+        "frame_id": 53,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659615159034729
+    },
+    {
+        "frame_id": 53,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.959517776966095
+    },
+    {
+        "frame_id": 54,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699217677116394
+    },
+    {
+        "frame_id": 54,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659737944602966
+    },
+    {
+        "frame_id": 54,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595038294792175
+    },
+    {
+        "frame_id": 55,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699690937995911
+    },
+    {
+        "frame_id": 55,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659770131111145
+    },
+    {
+        "frame_id": 55,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594374299049377
+    },
+    {
+        "frame_id": 56,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699734449386597
+    },
+    {
+        "frame_id": 56,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.966000497341156
+    },
+    {
+        "frame_id": 56,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594647288322449
+    },
+    {
+        "frame_id": 57,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700008630752563
+    },
+    {
+        "frame_id": 57,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660178422927856
+    },
+    {
+        "frame_id": 57,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595180749893188
+    },
+    {
+        "frame_id": 58,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700530171394348
+    },
+    {
+        "frame_id": 58,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659311771392822
+    },
+    {
+        "frame_id": 58,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595847129821777
+    },
+    {
+        "frame_id": 59,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970055341720581
+    },
+    {
+        "frame_id": 59,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659230709075928
+    },
+    {
+        "frame_id": 59,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594997763633728
+    },
+    {
+        "frame_id": 60,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9699980616569519
+    },
+    {
+        "frame_id": 60,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658881425857544
+    },
+    {
+        "frame_id": 60,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595746397972107
+    },
+    {
+        "frame_id": 61,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970012366771698
+    },
+    {
+        "frame_id": 61,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659901261329651
+    },
+    {
+        "frame_id": 61,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594843983650208
+    },
+    {
+        "frame_id": 62,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9699225425720215
+    },
+    {
+        "frame_id": 62,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659584164619446
+    },
+    {
+        "frame_id": 62,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.959527313709259
+    },
+    {
+        "frame_id": 63,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1140,
+            1072
+        ],
+        "confidence": 0.9700337052345276
+    },
+    {
+        "frame_id": 63,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660019278526306
+    },
+    {
+        "frame_id": 63,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595343470573425
+    },
+    {
+        "frame_id": 64,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700250625610352
+    },
+    {
+        "frame_id": 64,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659562110900879
+    },
+    {
+        "frame_id": 64,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596010446548462
+    },
+    {
+        "frame_id": 65,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699796438217163
+    },
+    {
+        "frame_id": 65,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659389853477478
+    },
+    {
+        "frame_id": 65,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595013856887817
+    },
+    {
+        "frame_id": 66,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.969873309135437
+    },
+    {
+        "frame_id": 66,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965860903263092
+    },
+    {
+        "frame_id": 66,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594994187355042
+    },
+    {
+        "frame_id": 67,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.969848096370697
+    },
+    {
+        "frame_id": 67,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659033417701721
+    },
+    {
+        "frame_id": 67,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595534205436707
+    },
+    {
+        "frame_id": 68,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698203802108765
+    },
+    {
+        "frame_id": 68,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659091234207153
+    },
+    {
+        "frame_id": 68,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595398306846619
+    },
+    {
+        "frame_id": 69,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699704647064209
+    },
+    {
+        "frame_id": 69,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658880233764648
+    },
+    {
+        "frame_id": 69,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595293998718262
+    },
+    {
+        "frame_id": 70,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699664115905762
+    },
+    {
+        "frame_id": 70,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659265279769897
+    },
+    {
+        "frame_id": 70,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594818949699402
+    },
+    {
+        "frame_id": 71,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699743986129761
+    },
+    {
+        "frame_id": 71,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659096002578735
+    },
+    {
+        "frame_id": 71,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594327211380005
+    },
+    {
+        "frame_id": 72,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.969856858253479
+    },
+    {
+        "frame_id": 72,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965941309928894
+    },
+    {
+        "frame_id": 72,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594692587852478
+    },
+    {
+        "frame_id": 73,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699422717094421
+    },
+    {
+        "frame_id": 73,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659700989723206
+    },
+    {
+        "frame_id": 73,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.959480345249176
+    },
+    {
+        "frame_id": 74,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698694944381714
+    },
+    {
+        "frame_id": 74,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659965634346008
+    },
+    {
+        "frame_id": 74,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595335721969604
+    },
+    {
+        "frame_id": 75,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698643684387207
+    },
+    {
+        "frame_id": 75,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660061597824097
+    },
+    {
+        "frame_id": 75,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595646262168884
+    },
+    {
+        "frame_id": 76,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698286056518555
+    },
+    {
+        "frame_id": 76,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660607576370239
+    },
+    {
+        "frame_id": 76,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595305919647217
+    },
+    {
+        "frame_id": 77,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698634743690491
+    },
+    {
+        "frame_id": 77,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660860300064087
+    },
+    {
+        "frame_id": 77,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595363140106201
+    },
+    {
+        "frame_id": 78,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698478579521179
+    },
+    {
+        "frame_id": 78,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660938382148743
+    },
+    {
+        "frame_id": 78,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595274329185486
+    },
+    {
+        "frame_id": 79,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698731303215027
+    },
+    {
+        "frame_id": 79,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660688042640686
+    },
+    {
+        "frame_id": 79,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595725536346436
+    },
+    {
+        "frame_id": 80,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9697762131690979
+    },
+    {
+        "frame_id": 80,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660890102386475
+    },
+    {
+        "frame_id": 80,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595842957496643
+    },
+    {
+        "frame_id": 81,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698329567909241
+    },
+    {
+        "frame_id": 81,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.966058075428009
+    },
+    {
+        "frame_id": 81,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9595469832420349
+    },
+    {
+        "frame_id": 82,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698513746261597
+    },
+    {
+        "frame_id": 82,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660720229148865
+    },
+    {
+        "frame_id": 82,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9595669507980347
+    },
+    {
+        "frame_id": 83,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698771238327026
+    },
+    {
+        "frame_id": 83,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660593271255493
+    },
+    {
+        "frame_id": 83,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595898985862732
+    },
+    {
+        "frame_id": 84,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699789881706238
+    },
+    {
+        "frame_id": 84,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659779071807861
+    },
+    {
+        "frame_id": 84,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593575596809387
+    },
+    {
+        "frame_id": 85,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699971675872803
+    },
+    {
+        "frame_id": 85,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659821391105652
+    },
+    {
+        "frame_id": 85,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593639969825745
+    },
+    {
+        "frame_id": 86,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699384570121765
+    },
+    {
+        "frame_id": 86,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.966029942035675
+    },
+    {
+        "frame_id": 86,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9592602252960205
+    },
+    {
+        "frame_id": 87,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699623584747314
+    },
+    {
+        "frame_id": 87,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659804701805115
+    },
+    {
+        "frame_id": 87,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9592716693878174
+    },
+    {
+        "frame_id": 88,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699409604072571
+    },
+    {
+        "frame_id": 88,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659565091133118
+    },
+    {
+        "frame_id": 88,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9592955708503723
+    },
+    {
+        "frame_id": 89,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699325561523438
+    },
+    {
+        "frame_id": 89,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659598469734192
+    },
+    {
+        "frame_id": 89,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593139886856079
+    },
+    {
+        "frame_id": 90,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699216485023499
+    },
+    {
+        "frame_id": 90,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659625291824341
+    },
+    {
+        "frame_id": 90,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593360424041748
+    },
+    {
+        "frame_id": 91,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698616862297058
+    },
+    {
+        "frame_id": 91,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659479856491089
+    },
+    {
+        "frame_id": 91,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9592990875244141
+    },
+    {
+        "frame_id": 92,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9698909521102905
+    },
+    {
+        "frame_id": 92,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659605622291565
+    },
+    {
+        "frame_id": 92,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.959341287612915
+    },
+    {
+        "frame_id": 93,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699360132217407
+    },
+    {
+        "frame_id": 93,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659730195999146
+    },
+    {
+        "frame_id": 93,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593322277069092
+    },
+    {
+        "frame_id": 94,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699171781539917
+    },
+    {
+        "frame_id": 94,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659488797187805
+    },
+    {
+        "frame_id": 94,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.959233283996582
+    },
+    {
+        "frame_id": 95,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699617028236389
+    },
+    {
+        "frame_id": 95,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659713506698608
+    },
+    {
+        "frame_id": 95,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9592512249946594
+    },
+    {
+        "frame_id": 96,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702085256576538
+    },
+    {
+        "frame_id": 96,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660518765449524
+    },
+    {
+        "frame_id": 96,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594166874885559
+    },
+    {
+        "frame_id": 97,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701971411705017
+    },
+    {
+        "frame_id": 97,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660815596580505
+    },
+    {
+        "frame_id": 97,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593784213066101
+    },
+    {
+        "frame_id": 98,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702270030975342
+    },
+    {
+        "frame_id": 98,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660671949386597
+    },
+    {
+        "frame_id": 98,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593621492385864
+    },
+    {
+        "frame_id": 99,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701674580574036
+    },
+    {
+        "frame_id": 99,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660542011260986
+    },
+    {
+        "frame_id": 99,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593023657798767
+    },
+    {
+        "frame_id": 100,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704222083091736
+    },
+    {
+        "frame_id": 100,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9661046266555786
+    },
+    {
+        "frame_id": 100,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593121409416199
+    },
+    {
+        "frame_id": 101,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704241156578064
+    },
+    {
+        "frame_id": 101,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660757780075073
+    },
+    {
+        "frame_id": 101,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593507647514343
+    },
+    {
+        "frame_id": 102,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704253673553467
+    },
+    {
+        "frame_id": 102,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660723209381104
+    },
+    {
+        "frame_id": 102,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594292044639587
+    },
+    {
+        "frame_id": 103,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703733921051025
+    },
+    {
+        "frame_id": 103,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660395383834839
+    },
+    {
+        "frame_id": 103,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594011902809143
+    },
+    {
+        "frame_id": 104,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970377504825592
+    },
+    {
+        "frame_id": 104,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660204648971558
+    },
+    {
+        "frame_id": 104,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594383239746094
+    },
+    {
+        "frame_id": 105,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703863859176636
+    },
+    {
+        "frame_id": 105,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660763144493103
+    },
+    {
+        "frame_id": 105,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594405293464661
+    },
+    {
+        "frame_id": 106,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704148769378662
+    },
+    {
+        "frame_id": 106,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660666584968567
+    },
+    {
+        "frame_id": 106,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594203233718872
+    },
+    {
+        "frame_id": 107,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704364538192749
+    },
+    {
+        "frame_id": 107,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660345315933228
+    },
+    {
+        "frame_id": 107,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594560861587524
+    },
+    {
+        "frame_id": 108,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704668521881104
+    },
+    {
+        "frame_id": 108,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659346342086792
+    },
+    {
+        "frame_id": 108,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595096111297607
+    },
+    {
+        "frame_id": 109,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704105257987976
+    },
+    {
+        "frame_id": 109,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659430980682373
+    },
+    {
+        "frame_id": 109,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594929814338684
+    },
+    {
+        "frame_id": 110,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704551100730896
+    },
+    {
+        "frame_id": 110,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659367203712463
+    },
+    {
+        "frame_id": 110,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594502449035645
+    },
+    {
+        "frame_id": 111,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704721570014954
+    },
+    {
+        "frame_id": 111,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659314751625061
+    },
+    {
+        "frame_id": 111,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593647718429565
+    },
+    {
+        "frame_id": 112,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970419704914093
+    },
+    {
+        "frame_id": 112,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659460783004761
+    },
+    {
+        "frame_id": 112,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593784213066101
+    },
+    {
+        "frame_id": 113,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704218506813049
+    },
+    {
+        "frame_id": 113,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658862352371216
+    },
+    {
+        "frame_id": 113,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593973755836487
+    },
+    {
+        "frame_id": 114,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704359173774719
+    },
+    {
+        "frame_id": 114,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658713340759277
+    },
+    {
+        "frame_id": 114,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595399498939514
+    },
+    {
+        "frame_id": 115,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704551100730896
+    },
+    {
+        "frame_id": 115,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659074544906616
+    },
+    {
+        "frame_id": 115,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595227837562561
+    },
+    {
+        "frame_id": 116,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9704092741012573
+    },
+    {
+        "frame_id": 116,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659042358398438
+    },
+    {
+        "frame_id": 116,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595307111740112
+    },
+    {
+        "frame_id": 117,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702537059783936
+    },
+    {
+        "frame_id": 117,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659074544906616
+    },
+    {
+        "frame_id": 117,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594871401786804
+    },
+    {
+        "frame_id": 118,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970220148563385
+    },
+    {
+        "frame_id": 118,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658969044685364
+    },
+    {
+        "frame_id": 118,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594773650169373
+    },
+    {
+        "frame_id": 119,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702433943748474
+    },
+    {
+        "frame_id": 119,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965881884098053
+    },
+    {
+        "frame_id": 119,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595898985862732
+    },
+    {
+        "frame_id": 120,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703044295310974
+    },
+    {
+        "frame_id": 120,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658150672912598
+    },
+    {
+        "frame_id": 120,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594507217407227
+    },
+    {
+        "frame_id": 121,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970289945602417
+    },
+    {
+        "frame_id": 121,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658300876617432
+    },
+    {
+        "frame_id": 121,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594132900238037
+    },
+    {
+        "frame_id": 122,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703919887542725
+    },
+    {
+        "frame_id": 122,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658954739570618
+    },
+    {
+        "frame_id": 122,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594315886497498
+    },
+    {
+        "frame_id": 123,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703820943832397
+    },
+    {
+        "frame_id": 123,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658556580543518
+    },
+    {
+        "frame_id": 123,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595007300376892
+    },
+    {
+        "frame_id": 124,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9703050255775452
+    },
+    {
+        "frame_id": 124,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658288359642029
+    },
+    {
+        "frame_id": 124,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595089554786682
+    },
+    {
+        "frame_id": 125,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702989459037781
+    },
+    {
+        "frame_id": 125,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658799171447754
+    },
+    {
+        "frame_id": 125,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594755172729492
+    },
+    {
+        "frame_id": 126,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701142311096191
+    },
+    {
+        "frame_id": 126,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658791422843933
+    },
+    {
+        "frame_id": 126,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595068097114563
+    },
+    {
+        "frame_id": 127,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702125191688538
+    },
+    {
+        "frame_id": 127,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658794403076172
+    },
+    {
+        "frame_id": 127,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9595449566841125
+    },
+    {
+        "frame_id": 128,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702573418617249
+    },
+    {
+        "frame_id": 128,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659242630004883
+    },
+    {
+        "frame_id": 128,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9595305919647217
+    },
+    {
+        "frame_id": 129,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702675342559814
+    },
+    {
+        "frame_id": 129,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659065008163452
+    },
+    {
+        "frame_id": 129,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594908952713013
+    },
+    {
+        "frame_id": 130,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701181650161743
+    },
+    {
+        "frame_id": 130,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658665657043457
+    },
+    {
+        "frame_id": 130,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594030976295471
+    },
+    {
+        "frame_id": 131,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701607823371887
+    },
+    {
+        "frame_id": 131,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965837299823761
+    },
+    {
+        "frame_id": 131,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594639539718628
+    },
+    {
+        "frame_id": 132,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699922204017639
+    },
+    {
+        "frame_id": 132,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659585356712341
+    },
+    {
+        "frame_id": 132,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594310522079468
+    },
+    {
+        "frame_id": 133,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700295329093933
+    },
+    {
+        "frame_id": 133,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659968018531799
+    },
+    {
+        "frame_id": 133,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594582915306091
+    },
+    {
+        "frame_id": 134,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700086712837219
+    },
+    {
+        "frame_id": 134,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659861326217651
+    },
+    {
+        "frame_id": 134,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595107436180115
+    },
+    {
+        "frame_id": 135,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700123071670532
+    },
+    {
+        "frame_id": 135,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659230709075928
+    },
+    {
+        "frame_id": 135,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595206379890442
+    },
+    {
+        "frame_id": 136,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700251817703247
+    },
+    {
+        "frame_id": 136,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659102559089661
+    },
+    {
+        "frame_id": 136,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595456123352051
+    },
+    {
+        "frame_id": 137,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699753522872925
+    },
+    {
+        "frame_id": 137,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659241437911987
+    },
+    {
+        "frame_id": 137,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596153497695923
+    },
+    {
+        "frame_id": 138,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9699907302856445
+    },
+    {
+        "frame_id": 138,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658903479576111
+    },
+    {
+        "frame_id": 138,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596384763717651
+    },
+    {
+        "frame_id": 139,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700203537940979
+    },
+    {
+        "frame_id": 139,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659298062324524
+    },
+    {
+        "frame_id": 139,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596168994903564
+    },
+    {
+        "frame_id": 140,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700039625167847
+    },
+    {
+        "frame_id": 140,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659306406974792
+    },
+    {
+        "frame_id": 140,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596169590950012
+    },
+    {
+        "frame_id": 141,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970027506351471
+    },
+    {
+        "frame_id": 141,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659440517425537
+    },
+    {
+        "frame_id": 141,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596315026283264
+    },
+    {
+        "frame_id": 142,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700906872749329
+    },
+    {
+        "frame_id": 142,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659902453422546
+    },
+    {
+        "frame_id": 142,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596801400184631
+    },
+    {
+        "frame_id": 143,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700625538825989
+    },
+    {
+        "frame_id": 143,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659515023231506
+    },
+    {
+        "frame_id": 143,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596167802810669
+    },
+    {
+        "frame_id": 144,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701858162879944
+    },
+    {
+        "frame_id": 144,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660192728042603
+    },
+    {
+        "frame_id": 144,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596661925315857
+    },
+    {
+        "frame_id": 145,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701884388923645
+    },
+    {
+        "frame_id": 145,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659541845321655
+    },
+    {
+        "frame_id": 145,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596481919288635
+    },
+    {
+        "frame_id": 146,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701529741287231
+    },
+    {
+        "frame_id": 146,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659704566001892
+    },
+    {
+        "frame_id": 146,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595988988876343
+    },
+    {
+        "frame_id": 147,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701588153839111
+    },
+    {
+        "frame_id": 147,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659317135810852
+    },
+    {
+        "frame_id": 147,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596138000488281
+    },
+    {
+        "frame_id": 148,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701145887374878
+    },
+    {
+        "frame_id": 148,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965937077999115
+    },
+    {
+        "frame_id": 148,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595840573310852
+    },
+    {
+        "frame_id": 149,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701391458511353
+    },
+    {
+        "frame_id": 149,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659304022789001
+    },
+    {
+        "frame_id": 149,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9596359729766846
+    },
+    {
+        "frame_id": 150,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702989459037781
+    },
+    {
+        "frame_id": 150,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658854603767395
+    },
+    {
+        "frame_id": 150,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9595234394073486
+    },
+    {
+        "frame_id": 151,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702191352844238
+    },
+    {
+        "frame_id": 151,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658840298652649
+    },
+    {
+        "frame_id": 151,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594857096672058
+    },
+    {
+        "frame_id": 152,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970183789730072
+    },
+    {
+        "frame_id": 152,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658902287483215
+    },
+    {
+        "frame_id": 152,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594793319702148
+    },
+    {
+        "frame_id": 153,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701428413391113
+    },
+    {
+        "frame_id": 153,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659043550491333
+    },
+    {
+        "frame_id": 153,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594966769218445
+    },
+    {
+        "frame_id": 154,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702380299568176
+    },
+    {
+        "frame_id": 154,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9658827781677246
+    },
+    {
+        "frame_id": 154,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594594836235046
+    },
+    {
+        "frame_id": 155,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702516794204712
+    },
+    {
+        "frame_id": 155,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659101366996765
+    },
+    {
+        "frame_id": 155,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594520330429077
+    },
+    {
+        "frame_id": 156,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702337384223938
+    },
+    {
+        "frame_id": 156,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659613370895386
+    },
+    {
+        "frame_id": 156,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594882130622864
+    },
+    {
+        "frame_id": 157,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970109224319458
+    },
+    {
+        "frame_id": 157,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659921526908875
+    },
+    {
+        "frame_id": 157,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594334959983826
+    },
+    {
+        "frame_id": 158,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702126383781433
+    },
+    {
+        "frame_id": 158,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965997040271759
+    },
+    {
+        "frame_id": 158,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594131708145142
+    },
+    {
+        "frame_id": 159,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701789617538452
+    },
+    {
+        "frame_id": 159,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659978151321411
+    },
+    {
+        "frame_id": 159,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593954086303711
+    },
+    {
+        "frame_id": 160,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701475501060486
+    },
+    {
+        "frame_id": 160,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659610986709595
+    },
+    {
+        "frame_id": 160,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593834280967712
+    },
+    {
+        "frame_id": 161,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701719284057617
+    },
+    {
+        "frame_id": 161,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659364819526672
+    },
+    {
+        "frame_id": 161,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593697190284729
+    },
+    {
+        "frame_id": 162,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701723456382751
+    },
+    {
+        "frame_id": 162,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965937077999115
+    },
+    {
+        "frame_id": 162,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594384431838989
+    },
+    {
+        "frame_id": 163,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700589179992676
+    },
+    {
+        "frame_id": 163,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659746885299683
+    },
+    {
+        "frame_id": 163,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594227075576782
+    },
+    {
+        "frame_id": 164,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701026678085327
+    },
+    {
+        "frame_id": 164,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659871459007263
+    },
+    {
+        "frame_id": 164,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594573974609375
+    },
+    {
+        "frame_id": 165,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701367020606995
+    },
+    {
+        "frame_id": 165,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.965933084487915
+    },
+    {
+        "frame_id": 165,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594327211380005
+    },
+    {
+        "frame_id": 166,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700427055358887
+    },
+    {
+        "frame_id": 166,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660428762435913
+    },
+    {
+        "frame_id": 166,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.959489107131958
+    },
+    {
+        "frame_id": 167,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701557755470276
+    },
+    {
+        "frame_id": 167,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660024642944336
+    },
+    {
+        "frame_id": 167,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594961404800415
+    },
+    {
+        "frame_id": 168,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970069169998169
+    },
+    {
+        "frame_id": 168,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659658670425415
+    },
+    {
+        "frame_id": 168,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594081044197083
+    },
+    {
+        "frame_id": 169,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700517654418945
+    },
+    {
+        "frame_id": 169,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660614132881165
+    },
+    {
+        "frame_id": 169,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594417214393616
+    },
+    {
+        "frame_id": 170,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701792001724243
+    },
+    {
+        "frame_id": 170,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660566449165344
+    },
+    {
+        "frame_id": 170,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594846367835999
+    },
+    {
+        "frame_id": 171,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701171517372131
+    },
+    {
+        "frame_id": 171,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.966052770614624
+    },
+    {
+        "frame_id": 171,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9595451951026917
+    },
+    {
+        "frame_id": 172,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702116250991821
+    },
+    {
+        "frame_id": 172,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660392999649048
+    },
+    {
+        "frame_id": 172,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594894647598267
+    },
+    {
+        "frame_id": 173,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701654314994812
+    },
+    {
+        "frame_id": 173,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.966041088104248
+    },
+    {
+        "frame_id": 173,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594855904579163
+    },
+    {
+        "frame_id": 174,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701811075210571
+    },
+    {
+        "frame_id": 174,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660344123840332
+    },
+    {
+        "frame_id": 174,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594557285308838
+    },
+    {
+        "frame_id": 175,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702183604240417
+    },
+    {
+        "frame_id": 175,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660471677780151
+    },
+    {
+        "frame_id": 175,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593524932861328
+    },
+    {
+        "frame_id": 176,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701412916183472
+    },
+    {
+        "frame_id": 176,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660468697547913
+    },
+    {
+        "frame_id": 176,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594123959541321
+    },
+    {
+        "frame_id": 177,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701036214828491
+    },
+    {
+        "frame_id": 177,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660357236862183
+    },
+    {
+        "frame_id": 177,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594302773475647
+    },
+    {
+        "frame_id": 178,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701334238052368
+    },
+    {
+        "frame_id": 178,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.966018795967102
+    },
+    {
+        "frame_id": 178,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594519138336182
+    },
+    {
+        "frame_id": 179,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701134562492371
+    },
+    {
+        "frame_id": 179,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660278558731079
+    },
+    {
+        "frame_id": 179,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593995809555054
+    },
+    {
+        "frame_id": 180,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700531363487244
+    },
+    {
+        "frame_id": 180,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659306406974792
+    },
+    {
+        "frame_id": 180,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594798684120178
+    },
+    {
+        "frame_id": 181,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700979590415955
+    },
+    {
+        "frame_id": 181,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659268260002136
+    },
+    {
+        "frame_id": 181,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.959450900554657
+    },
+    {
+        "frame_id": 182,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700572490692139
+    },
+    {
+        "frame_id": 182,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660056829452515
+    },
+    {
+        "frame_id": 182,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594901204109192
+    },
+    {
+        "frame_id": 183,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701594710350037
+    },
+    {
+        "frame_id": 183,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659847021102905
+    },
+    {
+        "frame_id": 183,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594811201095581
+    },
+    {
+        "frame_id": 184,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701278209686279
+    },
+    {
+        "frame_id": 184,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659820199012756
+    },
+    {
+        "frame_id": 184,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594588279724121
+    },
+    {
+        "frame_id": 185,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970177412033081
+    },
+    {
+        "frame_id": 185,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660073518753052
+    },
+    {
+        "frame_id": 185,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594241380691528
+    },
+    {
+        "frame_id": 186,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701690077781677
+    },
+    {
+        "frame_id": 186,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659897685050964
+    },
+    {
+        "frame_id": 186,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594173431396484
+    },
+    {
+        "frame_id": 187,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700976610183716
+    },
+    {
+        "frame_id": 187,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659647345542908
+    },
+    {
+        "frame_id": 187,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594296216964722
+    },
+    {
+        "frame_id": 188,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700930714607239
+    },
+    {
+        "frame_id": 188,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660066962242126
+    },
+    {
+        "frame_id": 188,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9593638181686401
+    },
+    {
+        "frame_id": 189,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9700199961662292
+    },
+    {
+        "frame_id": 189,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659499526023865
+    },
+    {
+        "frame_id": 189,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            460,
+            1919,
+            579
+        ],
+        "confidence": 0.9594048261642456
+    },
+    {
+        "frame_id": 190,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970106840133667
+    },
+    {
+        "frame_id": 190,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9660125970840454
+    },
+    {
+        "frame_id": 190,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594190120697021
+    },
+    {
+        "frame_id": 191,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701177477836609
+    },
+    {
+        "frame_id": 191,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659605622291565
+    },
+    {
+        "frame_id": 191,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594239592552185
+    },
+    {
+        "frame_id": 192,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            746,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.970282256603241
+    },
+    {
+        "frame_id": 192,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659942388534546
+    },
+    {
+        "frame_id": 192,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593763947486877
+    },
+    {
+        "frame_id": 193,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702486991882324
+    },
+    {
+        "frame_id": 193,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659440517425537
+    },
+    {
+        "frame_id": 193,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593678712844849
+    },
+    {
+        "frame_id": 194,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701858162879944
+    },
+    {
+        "frame_id": 194,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659398198127747
+    },
+    {
+        "frame_id": 194,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9593680500984192
+    },
+    {
+        "frame_id": 195,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9702240824699402
+    },
+    {
+        "frame_id": 195,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659639000892639
+    },
+    {
+        "frame_id": 195,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.9594048261642456
+    },
+    {
+        "frame_id": 196,
+        "event_id": 1,
+        "category": "垃圾桶满溢",
+        "bbox": [
+            747,
+            772,
+            1139,
+            1072
+        ],
+        "confidence": 0.9701936841011047
+    },
+    {
+        "frame_id": 196,
+        "event_id": 2,
+        "category": "非机动车违停",
+        "bbox": [
+            1466,
+            551,
+            1638,
+            657
+        ],
+        "confidence": 0.9659923315048218
+    },
+    {
+        "frame_id": 196,
+        "event_id": 3,
+        "category": "机动车违停",
+        "bbox": [
+            1665,
+            459,
+            1919,
+            579
+        ],
+        "confidence": 0.959347128868103
+    }
+]

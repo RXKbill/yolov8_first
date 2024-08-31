@@ -1,0 +1,10 @@
+
+path: D:\Desktop\new\summer_cv//yolo-dataset/
+train: train/
+val: val/
+
+names:
+    0: 非机动车违停
+    1: 机动车违停
+    2: 垃圾桶满溢
+    3: 违法经营
